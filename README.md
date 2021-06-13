@@ -36,4 +36,4 @@
 *productid - Product id for related page type, eg. visited item, purchased items. (Array) - hashed etc...*
 
 
-*NOTE = dataset volume is bigger than 25mb for this reason I uploaded the dataset to a web site. 
+*NOTE = dataset volume is bigger than 25mb for this reason I uploaded the dataset to a web site.* 
